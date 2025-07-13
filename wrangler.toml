@@ -1,7 +1,0 @@
-name = "sectorfive-main"
-compatibility_date = "2025-07-13"
-
-[site]
-  bucket  = "./"          # or "./public" if you’ve moved your HTML into a `public/` folder
-  include = ["**/*"]      # everything in that folder
-  exclude = ["**/.git/*"] # ignore your Git metadata
